@@ -33,8 +33,8 @@
 ### 📈 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_ЛОГИН&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ТВОЙ_ЛОГИН&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Russell2204&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Russell2204&theme=radical" width="48%"/>
 </p>
 
 ---
