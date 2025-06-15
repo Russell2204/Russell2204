@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Ruslan Hellfire 👋</h1>
+<h1 align="center">Привет, я Ruslan 👋</h1>
 
 <p align="center">
   🔥 Frontend Developer • 🛠 JS, React, TypeScript • 🌍 Узбекистан
@@ -12,7 +12,7 @@
 - 🌱 Изучаю **Fullstack-разработку (React + Node.js)**
 - 💬 Спрашивай меня о **JavaScript, React, WordPress**
 - 📫 Как со мной связаться: [Telegram](https://t.me/russsssssell), [Email](mailto:ruslanabdjemilov@gmail.com)
-- 😄 Факт: люблю кодить под хорошую музыку 🎧
+- 😄 Факт: люблю кодить под тяжёлую музыку 🎧
 
 ---
 
@@ -41,6 +41,5 @@
 
 ### 🌐 Соцсети
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@твой_канал)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/russsssssell))
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_профиль)
